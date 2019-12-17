@@ -1,0 +1,2 @@
+2019/12/17 11:00:58 - Warning
+	CamFree - CamConstraint.cs: Points not found!
