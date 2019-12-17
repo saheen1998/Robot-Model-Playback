@@ -1,0 +1,4 @@
+2019/12/17 09:24:47 - Warning
+	CamFree - CamConstraint.cs: Points not found!
+2019/12/17 09:24:54 - Warning
+	Sawyer RobotController - RobotControllerScript.cs: Joint data file not loaded, cannot be read or does not exist!
